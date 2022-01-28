@@ -553,7 +553,7 @@
       rgb(169, 227, 75, 0.35),
       rgb(116, 184, 22, 0.35)
     ),
-    url("../img/eating.jpg");
+    url("eating.jpg");
   background-size: cover;
   background-position: center;
 }
